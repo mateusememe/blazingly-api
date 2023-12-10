@@ -1,0 +1,8 @@
+Package: asio
+Version: 1.28.2
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: cc611840a261095e999e78f8cf86c54bdcd0b07fdad37c93633fde5363d02599
+Description: Asio is a cross-platform C++ library for network and low-level I/O programming that provides developers with a consistent asynchronous model using a modern C++ approach.
+Status: install ok half-installed
