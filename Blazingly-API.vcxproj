@@ -136,7 +136,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="example_with_all.cpp" />
+    <ClCompile Include="index1.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="crow_all.h" />
